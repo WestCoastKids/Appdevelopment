@@ -1,4 +1,3 @@
-
 Group #32
 Members: (just type your name)
 Ralph 
@@ -6,16 +5,11 @@ Mahita
 Melissa
 
 
-
-
-
 ## Favorite Existing Apps - List
 Instagram
 Amazon
 Spotify
 Youtube
-
-
 
 
 # Favorite Existing Apps - Categorize and Evaluate
@@ -61,7 +55,7 @@ Youtube
     - an app that lets you share music to others as well as knowing what your friends are listening to; creates a community with the same music interests.
 4. Safety app
     - an app that lets you sends your location and the time sent to your loved ones and friends when you are in a sketchy place, a date, or going out late.
-5. Sports Consolidation app
+5. Sports app
     - An app that keeps track of all the teams and leagues that you like, and updates you with statistics, scores news, fantasy points, and even twitter conversation and memes
 6. Budget creation app
     - An app that helps you create and maintain a budget and gives you suggestions based on your listed preferences
@@ -75,18 +69,40 @@ Youtube
 
 
 ## Top 3 New App Ideas
-1. Meal Maker App
-2. Safety App
-3. 
+1. Meal Maker App - mahita
+2. Safety App - ralph
+3. College buying/selling app - Melissa
 
 ## New App Ideas - Evaluate and Categorize
-1. Student Behavior Tracker
-   - **Description**: Allows teachers, students and parents to stay up to date with student behavior in real time. Teachers can acknowledge positive student behavior when it happens, students can receive instant positive reinforcement and parents can be more tuned in to how their child is doing at school.
-   - **Category:** Social Networking
-   - **Mobile:** Mobile is essential for the instant logging of student behavior. Students use the app to purchase goods from the student store and other rewards. The camera is used to share images with parents.
-   - **Story:** Creates a team between student, parent and teacher. Allows good behavior to not go unnoticed and for students to get rewards and positive reinforcement from teachers, parents and peers
-   - **Market:** Any school district or individual classroom teacher of any grade could utilize this app. District wide licensing and custom features could be used for monetization. 
-   - **Habit:** Teachers are using this constantly throughout the school day. Students are using the app daily to check their performance and cash in on rewards.
-   - **Scope:** V1 would allow teachers to access a roster of students and input behavior logs. Could actually be tested by a real teacher with a class of students. V2 would incorporate a student facing version for students to see their performance. V3 would add a way for students to earn and obtain rewards for goals met. V4 would incorporate a parent facing version.
+1. Meal Maker App
+   - **Description**:
+   - **Category:** 
+   - **Mobile:** 
+   - **Story:** 
+   - **Market:** 
+   - **Habit:** 
+   - **Scope:** 
+
+2. Safety App
+   - **Description**: An app that lets you sends your location and the time sent to your loved ones and friends when you are in a sketchy place, a date, or going out late.
+   - **Category:** Lifestyle / Social-networking
+   - **Mobile:** This is a mobile-only app. Because of its intended purpose, this app cannot be utilize with a desktop.
+   - **Story:** Allows users to send out multiple quick messages to anyone. You can send your location in a specific time, and SOSs.
+   - **Market:** Its intended users are those people who are going to situations where they might need someone to know where and when they would be. Some of the situations would be having a first date, staying out late at night, drinking out, and other similar sitatuions where you need someone to know what you're doing and where just in case something happens. 
+   - **Habit:** Users can use this app literally everytime they go out. It doesn't have to be at night. We always need to be extra careful and this app makes sure that your friends know that you're safe.
+   - **Scope:** The app will feature the SOS button that can be accessed as soon as the app opens. When the SOS button is repeatedly tapped/tapped heavily for a long time, it will automatically send your information to the authorities (something like a 911), loved ones, and friends. SOS button is supposed to be used when user is in a dangerous/helpless situations.
 
 
+
+
+
+
+3. College Specific Buying and Selling App
+ - **Description**:
+   - **Description**: Service that connects students to other students at their school so they can have a direct line of selling textbooks and other items without having the middle man of the school's bookstore or a third party seller. 
+   - **Category:** Shopping app. 
+   - **Mobile:** Mobile first or mobile and website accessible equally. Allows for convience because student's can add or buy items from their phone anywhere, anytime. 
+   - **Story:** Get better prices for your textbooks and make more profit from selling them back then you would through the school. Find dorm items and more for more affordable prices, and reduces waste from items students no longer need. 
+   - **Market:** This app's intended users are college students.  Student's might need to buy or sell items as they enter, leave, or move housing situations.  They may need to buy and sell textbooks from term to term as their schedule's change. 
+   - **Habit:** Users can use the app anytime they need something, which is often for most people. 
+   - **Scope:** The app could have a seller option for students looking to select their school and sell items. There could be another option for buyers to just browse and purchase items.  The app could like to applewallet and/or paypal for security of payment information.  There could be a rewards program that tracks and rewards users for frequent usage. 
